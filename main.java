@@ -1,6 +1,10 @@
 public class main{
-  int i = 5
-  while i < 1000{
-  System.out.Print((i+5)+" ");
+  public static void main(String[] args){
+
+    for(int i = 0; i<1000; ){
+
+    }
+
   }
 }
+
